@@ -1,0 +1,11 @@
+body {
+  background-color: #000000;
+  color: #ffffff;
+  background-image: url("./assets/Images/trade.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+* {
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,12 @@
+.inner-wrapper {
+  height: 260px;
+  min-width: 50%;
+
+  background-color: rgba(247, 240, 241, 0.3);
+}
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
